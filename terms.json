@@ -1,0 +1,122 @@
+[
+  {
+    "term": "vision-language-action vla models",
+    "df": 16,
+    "nwords": 3,
+    "lift": 6.6
+  },
+  {
+    "term": "hidden states",
+    "df": 12,
+    "nwords": 2,
+    "lift": 5.0
+  },
+  {
+    "term": "world model",
+    "df": 20,
+    "nwords": 2,
+    "lift": 3.15
+  },
+  {
+    "term": "vision-language model",
+    "df": 16,
+    "nwords": 2,
+    "lift": 3.67
+  },
+  {
+    "term": "latent space",
+    "df": 20,
+    "nwords": 2,
+    "lift": 1.95
+  },
+  {
+    "term": "verifiable rewards rlvr",
+    "df": 10,
+    "nwords": 3,
+    "lift": 2.33
+  },
+  {
+    "term": "language modeling",
+    "df": 17,
+    "nwords": 2,
+    "lift": 1.84
+  },
+  {
+    "term": "policy optimization",
+    "df": 23,
+    "nwords": 2,
+    "lift": 1.42
+  },
+  {
+    "term": "sample efficiency",
+    "df": 10,
+    "nwords": 2,
+    "lift": 2.33
+  },
+  {
+    "term": "llm agents",
+    "df": 11,
+    "nwords": 2,
+    "lift": 2.09
+  },
+  {
+    "term": "latent representations",
+    "df": 11,
+    "nwords": 2,
+    "lift": 2.09
+  },
+  {
+    "term": "supervised fine-tuning sft",
+    "df": 11,
+    "nwords": 3,
+    "lift": 1.53
+  },
+  {
+    "term": "flow matching",
+    "df": 9,
+    "nwords": 2,
+    "lift": 2.11
+  },
+  {
+    "term": "catastrophic forgetting",
+    "df": 9,
+    "nwords": 2,
+    "lift": 2.11
+  },
+  {
+    "term": "retrieval-augmented generation",
+    "df": 15,
+    "nwords": 2,
+    "lift": 1.48
+  },
+  {
+    "term": "uncertainty quantification",
+    "df": 10,
+    "nwords": 2,
+    "lift": 1.91
+  },
+  {
+    "term": "visual grounding",
+    "df": 10,
+    "nwords": 2,
+    "lift": 1.91
+  },
+  {
+    "term": "video generation",
+    "df": 13,
+    "nwords": 2,
+    "lift": 1.42
+  },
+  {
+    "term": "continual learning",
+    "df": 11,
+    "nwords": 2,
+    "lift": 1.53
+  },
+  {
+    "term": "parameter-efficient fine-tuning",
+    "df": 10,
+    "nwords": 2,
+    "lift": 1.62
+  }
+]

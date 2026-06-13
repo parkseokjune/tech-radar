@@ -1,0 +1,2190 @@
+{
+  "generated": "2026-06-13 12:59",
+  "months": [
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "future": [
+    "2026-06",
+    "2026-07",
+    "2026-08"
+  ],
+  "median_mape": 22.2,
+  "n_corpus": 800,
+  "items_by_momentum": [
+    {
+      "term": "hidden states",
+      "series": [
+        46,
+        43,
+        32,
+        52,
+        60,
+        44,
+        35,
+        72,
+        97,
+        82,
+        95,
+        221
+      ],
+      "forecast": [
+        203.2,
+        232.6,
+        262.0
+      ],
+      "volume": 879,
+      "avg_recent": 132.7,
+      "momentum": 95.1,
+      "pred_growth": 75.3,
+      "accel": 26.37,
+      "mape": 26.5,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 15.8,
+      "confidence": 0.73,
+      "emergence": 50.2
+    },
+    {
+      "term": "llm agents",
+      "series": [
+        108,
+        111,
+        107,
+        145,
+        192,
+        117,
+        117,
+        169,
+        215,
+        254,
+        283,
+        435
+      ],
+      "forecast": [
+        468.7,
+        527.4,
+        586.1
+      ],
+      "volume": 2253,
+      "avg_recent": 324.0,
+      "momentum": 94.0,
+      "pred_growth": 62.8,
+      "accel": 47.0,
+      "mape": 39.4,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 73.7,
+      "confidence": 0.61,
+      "emergence": 38.4
+    },
+    {
+      "term": "visual grounding",
+      "series": [
+        36,
+        28,
+        34,
+        41,
+        38,
+        47,
+        52,
+        45,
+        46,
+        85,
+        90,
+        99
+      ],
+      "forecast": [
+        105.6,
+        111.6,
+        116.7
+      ],
+      "volume": 641,
+      "avg_recent": 91.3,
+      "momentum": 91.6,
+      "pred_growth": 21.9,
+      "accel": 9.06,
+      "mape": 48.9,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 5.3,
+      "confidence": 0.51,
+      "emergence": 20.0
+    },
+    {
+      "term": "vision-language-action vla models",
+      "series": [
+        41,
+        24,
+        36,
+        65,
+        86,
+        76,
+        74,
+        57,
+        116,
+        145,
+        89,
+        168
+      ],
+      "forecast": [
+        156.5,
+        165.7,
+        173.5
+      ],
+      "volume": 977,
+      "avg_recent": 134.0,
+      "momentum": 62.8,
+      "pred_growth": 23.3,
+      "accel": 5.86,
+      "mape": 27.3,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 26.3,
+      "confidence": 0.73,
+      "emergence": 22.5
+    },
+    {
+      "term": "verifiable rewards rlvr",
+      "series": [
+        29,
+        27,
+        23,
+        57,
+        71,
+        38,
+        28,
+        58,
+        64,
+        51,
+        57,
+        130
+      ],
+      "forecast": [
+        99.2,
+        109.9,
+        120.6
+      ],
+      "volume": 633,
+      "avg_recent": 79.3,
+      "momentum": 58.7,
+      "pred_growth": 38.5,
+      "accel": 8.09,
+      "mape": 22.1,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 0.0,
+      "confidence": 0.78,
+      "emergence": 29.2
+    },
+    {
+      "term": "world model",
+      "series": [
+        88,
+        48,
+        41,
+        76,
+        105,
+        104,
+        126,
+        86,
+        140,
+        164,
+        133,
+        249
+      ],
+      "forecast": [
+        251.4,
+        271.5,
+        288.6
+      ],
+      "volume": 1360,
+      "avg_recent": 182.0,
+      "momentum": 55.1,
+      "pred_growth": 48.6,
+      "accel": 14.11,
+      "mape": 21.4,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 47.4,
+      "confidence": 0.79,
+      "emergence": 33.0
+    },
+    {
+      "term": "latent representations",
+      "series": [
+        71,
+        71,
+        69,
+        90,
+        85,
+        85,
+        67,
+        80,
+        114,
+        137,
+        105,
+        161
+      ],
+      "forecast": [
+        149.5,
+        161.0,
+        172.6
+      ],
+      "volume": 1135,
+      "avg_recent": 134.3,
+      "momentum": 54.4,
+      "pred_growth": 19.9,
+      "accel": 12.43,
+      "mape": 28.1,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 42.1,
+      "confidence": 0.72,
+      "emergence": 19.6
+    },
+    {
+      "term": "flow matching",
+      "series": [
+        72,
+        55,
+        69,
+        101,
+        129,
+        101,
+        100,
+        101,
+        163,
+        172,
+        125,
+        244
+      ],
+      "forecast": [
+        222.1,
+        236.4,
+        248.5
+      ],
+      "volume": 1432,
+      "avg_recent": 180.3,
+      "momentum": 48.6,
+      "pred_growth": 30.7,
+      "accel": 11.49,
+      "mape": 23.1,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 57.9,
+      "confidence": 0.77,
+      "emergence": 23.7
+    },
+    {
+      "term": "uncertainty quantification",
+      "series": [
+        104,
+        119,
+        107,
+        133,
+        137,
+        112,
+        125,
+        108,
+        126,
+        172,
+        135,
+        199
+      ],
+      "forecast": [
+        169.8,
+        172.1,
+        174.1
+      ],
+      "volume": 1577,
+      "avg_recent": 168.7,
+      "momentum": 40.9,
+      "pred_growth": 2.0,
+      "accel": 10.77,
+      "mape": 26.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.05,
+        "phi": 0.85
+      },
+      "vol_norm": 68.4,
+      "confidence": 0.74,
+      "emergence": 10.4
+    },
+    {
+      "term": "vision-language model",
+      "series": [
+        408,
+        299,
+        397,
+        443,
+        453,
+        433,
+        395,
+        419,
+        460,
+        638,
+        523,
+        621
+      ],
+      "forecast": [
+        631.3,
+        650.6,
+        667.0
+      ],
+      "volume": 5489,
+      "avg_recent": 594.0,
+      "momentum": 39.9,
+      "pred_growth": 9.4,
+      "accel": 28.2,
+      "mape": 21.2,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 94.7,
+      "confidence": 0.79,
+      "emergence": 14.9
+    },
+    {
+      "term": "video generation",
+      "series": [
+        118,
+        69,
+        93,
+        81,
+        121,
+        114,
+        172,
+        96,
+        120,
+        180,
+        136,
+        202
+      ],
+      "forecast": [
+        192.3,
+        201.3,
+        209.0
+      ],
+      "volume": 1502,
+      "avg_recent": 172.7,
+      "momentum": 33.5,
+      "pred_growth": 16.3,
+      "accel": 5.89,
+      "mape": 31.6,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 63.2,
+      "confidence": 0.68,
+      "emergence": 12.8
+    },
+    {
+      "term": "latent space",
+      "series": [
+        201,
+        181,
+        159,
+        221,
+        225,
+        224,
+        209,
+        207,
+        253,
+        296,
+        212,
+        373
+      ],
+      "forecast": [
+        315.1,
+        328.2,
+        339.4
+      ],
+      "volume": 2761,
+      "avg_recent": 293.7,
+      "momentum": 31.7,
+      "pred_growth": 11.5,
+      "accel": 16.26,
+      "mape": 22.2,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 89.5,
+      "confidence": 0.78,
+      "emergence": 12.9
+    },
+    {
+      "term": "policy optimization",
+      "series": [
+        130,
+        110,
+        151,
+        199,
+        232,
+        152,
+        175,
+        198,
+        258,
+        267,
+        216,
+        346
+      ],
+      "forecast": [
+        323.2,
+        339.2,
+        352.8
+      ],
+      "volume": 2434,
+      "avg_recent": 276.3,
+      "momentum": 31.4,
+      "pred_growth": 22.5,
+      "accel": 11.26,
+      "mape": 16.0,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 78.9,
+      "confidence": 0.84,
+      "emergence": 18.1
+    },
+    {
+      "term": "supervised fine-tuning sft",
+      "series": [
+        67,
+        48,
+        69,
+        92,
+        116,
+        71,
+        57,
+        88,
+        87,
+        90,
+        97,
+        116
+      ],
+      "forecast": [
+        116.4,
+        119.9,
+        122.8
+      ],
+      "volume": 998,
+      "avg_recent": 101.0,
+      "momentum": 30.6,
+      "pred_growth": 18.5,
+      "accel": 2.23,
+      "mape": 16.1,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.2,
+        "phi": 0.85
+      },
+      "vol_norm": 31.6,
+      "confidence": 0.84,
+      "emergence": 15.6
+    },
+    {
+      "term": "continual learning",
+      "series": [
+        72,
+        69,
+        85,
+        79,
+        67,
+        91,
+        74,
+        82,
+        80,
+        91,
+        83,
+        129
+      ],
+      "forecast": [
+        110.5,
+        117.1,
+        123.6
+      ],
+      "volume": 1002,
+      "avg_recent": 101.0,
+      "momentum": 28.4,
+      "pred_growth": 15.9,
+      "accel": 5.89,
+      "mape": 16.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 36.8,
+      "confidence": 0.84,
+      "emergence": 14.2
+    },
+    {
+      "term": "language modeling",
+      "series": [
+        3408,
+        2705,
+        3074,
+        3513,
+        3976,
+        2963,
+        2645,
+        3495,
+        3510,
+        3778,
+        3887,
+        4542
+      ],
+      "forecast": [
+        4629.2,
+        4799.5,
+        4944.1
+      ],
+      "volume": 41496,
+      "avg_recent": 4069.0,
+      "momentum": 26.5,
+      "pred_growth": 17.7,
+      "accel": 254.34,
+      "mape": 13.2,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 100.0,
+      "confidence": 0.87,
+      "emergence": 31.9
+    },
+    {
+      "term": "parameter-efficient fine-tuning",
+      "series": [
+        54,
+        43,
+        52,
+        56,
+        71,
+        46,
+        55,
+        49,
+        63,
+        59,
+        63,
+        87
+      ],
+      "forecast": [
+        82.2,
+        86.3,
+        89.7
+      ],
+      "volume": 698,
+      "avg_recent": 69.7,
+      "momentum": 25.1,
+      "pred_growth": 23.5,
+      "accel": 4.29,
+      "mape": 11.8,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 10.5,
+      "confidence": 0.88,
+      "emergence": 17.3
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "series": [
+        218,
+        196,
+        252,
+        202,
+        281,
+        185,
+        174,
+        262,
+        201,
+        242,
+        276,
+        270
+      ],
+      "forecast": [
+        268.4,
+        275.1,
+        280.7
+      ],
+      "volume": 2759,
+      "avg_recent": 262.7,
+      "momentum": 23.7,
+      "pred_growth": 4.6,
+      "accel": 14.94,
+      "mape": 21.6,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 84.2,
+      "confidence": 0.78,
+      "emergence": 8.3
+    },
+    {
+      "term": "catastrophic forgetting",
+      "series": [
+        60,
+        57,
+        70,
+        75,
+        81,
+        83,
+        69,
+        91,
+        90,
+        96,
+        79,
+        124
+      ],
+      "forecast": [
+        110.9,
+        116.7,
+        122.6
+      ],
+      "volume": 975,
+      "avg_recent": 99.7,
+      "momentum": 19.6,
+      "pred_growth": 17.1,
+      "accel": 1.51,
+      "mape": 15.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 21.1,
+      "confidence": 0.85,
+      "emergence": 12.3
+    },
+    {
+      "term": "sample efficiency",
+      "series": [
+        123,
+        66,
+        79,
+        126,
+        137,
+        117,
+        86,
+        106,
+        161,
+        142,
+        118,
+        142
+      ],
+      "forecast": [
+        140.3,
+        142.2,
+        143.8
+      ],
+      "volume": 1403,
+      "avg_recent": 134.0,
+      "momentum": 13.9,
+      "pred_growth": 6.0,
+      "accel": 1.91,
+      "mape": 26.3,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 52.6,
+      "confidence": 0.74,
+      "emergence": 5.4
+    }
+  ],
+  "items_by_emergence": [
+    {
+      "term": "hidden states",
+      "series": [
+        46,
+        43,
+        32,
+        52,
+        60,
+        44,
+        35,
+        72,
+        97,
+        82,
+        95,
+        221
+      ],
+      "forecast": [
+        203.2,
+        232.6,
+        262.0
+      ],
+      "volume": 879,
+      "avg_recent": 132.7,
+      "momentum": 95.1,
+      "pred_growth": 75.3,
+      "accel": 26.37,
+      "mape": 26.5,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 15.8,
+      "confidence": 0.73,
+      "emergence": 50.2
+    },
+    {
+      "term": "llm agents",
+      "series": [
+        108,
+        111,
+        107,
+        145,
+        192,
+        117,
+        117,
+        169,
+        215,
+        254,
+        283,
+        435
+      ],
+      "forecast": [
+        468.7,
+        527.4,
+        586.1
+      ],
+      "volume": 2253,
+      "avg_recent": 324.0,
+      "momentum": 94.0,
+      "pred_growth": 62.8,
+      "accel": 47.0,
+      "mape": 39.4,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 73.7,
+      "confidence": 0.61,
+      "emergence": 38.4
+    },
+    {
+      "term": "world model",
+      "series": [
+        88,
+        48,
+        41,
+        76,
+        105,
+        104,
+        126,
+        86,
+        140,
+        164,
+        133,
+        249
+      ],
+      "forecast": [
+        251.4,
+        271.5,
+        288.6
+      ],
+      "volume": 1360,
+      "avg_recent": 182.0,
+      "momentum": 55.1,
+      "pred_growth": 48.6,
+      "accel": 14.11,
+      "mape": 21.4,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 47.4,
+      "confidence": 0.79,
+      "emergence": 33.0
+    },
+    {
+      "term": "language modeling",
+      "series": [
+        3408,
+        2705,
+        3074,
+        3513,
+        3976,
+        2963,
+        2645,
+        3495,
+        3510,
+        3778,
+        3887,
+        4542
+      ],
+      "forecast": [
+        4629.2,
+        4799.5,
+        4944.1
+      ],
+      "volume": 41496,
+      "avg_recent": 4069.0,
+      "momentum": 26.5,
+      "pred_growth": 17.7,
+      "accel": 254.34,
+      "mape": 13.2,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 100.0,
+      "confidence": 0.87,
+      "emergence": 31.9
+    },
+    {
+      "term": "verifiable rewards rlvr",
+      "series": [
+        29,
+        27,
+        23,
+        57,
+        71,
+        38,
+        28,
+        58,
+        64,
+        51,
+        57,
+        130
+      ],
+      "forecast": [
+        99.2,
+        109.9,
+        120.6
+      ],
+      "volume": 633,
+      "avg_recent": 79.3,
+      "momentum": 58.7,
+      "pred_growth": 38.5,
+      "accel": 8.09,
+      "mape": 22.1,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 0.0,
+      "confidence": 0.78,
+      "emergence": 29.2
+    },
+    {
+      "term": "flow matching",
+      "series": [
+        72,
+        55,
+        69,
+        101,
+        129,
+        101,
+        100,
+        101,
+        163,
+        172,
+        125,
+        244
+      ],
+      "forecast": [
+        222.1,
+        236.4,
+        248.5
+      ],
+      "volume": 1432,
+      "avg_recent": 180.3,
+      "momentum": 48.6,
+      "pred_growth": 30.7,
+      "accel": 11.49,
+      "mape": 23.1,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 57.9,
+      "confidence": 0.77,
+      "emergence": 23.7
+    },
+    {
+      "term": "vision-language-action vla models",
+      "series": [
+        41,
+        24,
+        36,
+        65,
+        86,
+        76,
+        74,
+        57,
+        116,
+        145,
+        89,
+        168
+      ],
+      "forecast": [
+        156.5,
+        165.7,
+        173.5
+      ],
+      "volume": 977,
+      "avg_recent": 134.0,
+      "momentum": 62.8,
+      "pred_growth": 23.3,
+      "accel": 5.86,
+      "mape": 27.3,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 26.3,
+      "confidence": 0.73,
+      "emergence": 22.5
+    },
+    {
+      "term": "visual grounding",
+      "series": [
+        36,
+        28,
+        34,
+        41,
+        38,
+        47,
+        52,
+        45,
+        46,
+        85,
+        90,
+        99
+      ],
+      "forecast": [
+        105.6,
+        111.6,
+        116.7
+      ],
+      "volume": 641,
+      "avg_recent": 91.3,
+      "momentum": 91.6,
+      "pred_growth": 21.9,
+      "accel": 9.06,
+      "mape": 48.9,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 5.3,
+      "confidence": 0.51,
+      "emergence": 20.0
+    },
+    {
+      "term": "latent representations",
+      "series": [
+        71,
+        71,
+        69,
+        90,
+        85,
+        85,
+        67,
+        80,
+        114,
+        137,
+        105,
+        161
+      ],
+      "forecast": [
+        149.5,
+        161.0,
+        172.6
+      ],
+      "volume": 1135,
+      "avg_recent": 134.3,
+      "momentum": 54.4,
+      "pred_growth": 19.9,
+      "accel": 12.43,
+      "mape": 28.1,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 42.1,
+      "confidence": 0.72,
+      "emergence": 19.6
+    },
+    {
+      "term": "policy optimization",
+      "series": [
+        130,
+        110,
+        151,
+        199,
+        232,
+        152,
+        175,
+        198,
+        258,
+        267,
+        216,
+        346
+      ],
+      "forecast": [
+        323.2,
+        339.2,
+        352.8
+      ],
+      "volume": 2434,
+      "avg_recent": 276.3,
+      "momentum": 31.4,
+      "pred_growth": 22.5,
+      "accel": 11.26,
+      "mape": 16.0,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 78.9,
+      "confidence": 0.84,
+      "emergence": 18.1
+    },
+    {
+      "term": "parameter-efficient fine-tuning",
+      "series": [
+        54,
+        43,
+        52,
+        56,
+        71,
+        46,
+        55,
+        49,
+        63,
+        59,
+        63,
+        87
+      ],
+      "forecast": [
+        82.2,
+        86.3,
+        89.7
+      ],
+      "volume": 698,
+      "avg_recent": 69.7,
+      "momentum": 25.1,
+      "pred_growth": 23.5,
+      "accel": 4.29,
+      "mape": 11.8,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 10.5,
+      "confidence": 0.88,
+      "emergence": 17.3
+    },
+    {
+      "term": "supervised fine-tuning sft",
+      "series": [
+        67,
+        48,
+        69,
+        92,
+        116,
+        71,
+        57,
+        88,
+        87,
+        90,
+        97,
+        116
+      ],
+      "forecast": [
+        116.4,
+        119.9,
+        122.8
+      ],
+      "volume": 998,
+      "avg_recent": 101.0,
+      "momentum": 30.6,
+      "pred_growth": 18.5,
+      "accel": 2.23,
+      "mape": 16.1,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.2,
+        "phi": 0.85
+      },
+      "vol_norm": 31.6,
+      "confidence": 0.84,
+      "emergence": 15.6
+    },
+    {
+      "term": "vision-language model",
+      "series": [
+        408,
+        299,
+        397,
+        443,
+        453,
+        433,
+        395,
+        419,
+        460,
+        638,
+        523,
+        621
+      ],
+      "forecast": [
+        631.3,
+        650.6,
+        667.0
+      ],
+      "volume": 5489,
+      "avg_recent": 594.0,
+      "momentum": 39.9,
+      "pred_growth": 9.4,
+      "accel": 28.2,
+      "mape": 21.2,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 94.7,
+      "confidence": 0.79,
+      "emergence": 14.9
+    },
+    {
+      "term": "continual learning",
+      "series": [
+        72,
+        69,
+        85,
+        79,
+        67,
+        91,
+        74,
+        82,
+        80,
+        91,
+        83,
+        129
+      ],
+      "forecast": [
+        110.5,
+        117.1,
+        123.6
+      ],
+      "volume": 1002,
+      "avg_recent": 101.0,
+      "momentum": 28.4,
+      "pred_growth": 15.9,
+      "accel": 5.89,
+      "mape": 16.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 36.8,
+      "confidence": 0.84,
+      "emergence": 14.2
+    },
+    {
+      "term": "latent space",
+      "series": [
+        201,
+        181,
+        159,
+        221,
+        225,
+        224,
+        209,
+        207,
+        253,
+        296,
+        212,
+        373
+      ],
+      "forecast": [
+        315.1,
+        328.2,
+        339.4
+      ],
+      "volume": 2761,
+      "avg_recent": 293.7,
+      "momentum": 31.7,
+      "pred_growth": 11.5,
+      "accel": 16.26,
+      "mape": 22.2,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 89.5,
+      "confidence": 0.78,
+      "emergence": 12.9
+    },
+    {
+      "term": "video generation",
+      "series": [
+        118,
+        69,
+        93,
+        81,
+        121,
+        114,
+        172,
+        96,
+        120,
+        180,
+        136,
+        202
+      ],
+      "forecast": [
+        192.3,
+        201.3,
+        209.0
+      ],
+      "volume": 1502,
+      "avg_recent": 172.7,
+      "momentum": 33.5,
+      "pred_growth": 16.3,
+      "accel": 5.89,
+      "mape": 31.6,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 63.2,
+      "confidence": 0.68,
+      "emergence": 12.8
+    },
+    {
+      "term": "catastrophic forgetting",
+      "series": [
+        60,
+        57,
+        70,
+        75,
+        81,
+        83,
+        69,
+        91,
+        90,
+        96,
+        79,
+        124
+      ],
+      "forecast": [
+        110.9,
+        116.7,
+        122.6
+      ],
+      "volume": 975,
+      "avg_recent": 99.7,
+      "momentum": 19.6,
+      "pred_growth": 17.1,
+      "accel": 1.51,
+      "mape": 15.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 21.1,
+      "confidence": 0.85,
+      "emergence": 12.3
+    },
+    {
+      "term": "uncertainty quantification",
+      "series": [
+        104,
+        119,
+        107,
+        133,
+        137,
+        112,
+        125,
+        108,
+        126,
+        172,
+        135,
+        199
+      ],
+      "forecast": [
+        169.8,
+        172.1,
+        174.1
+      ],
+      "volume": 1577,
+      "avg_recent": 168.7,
+      "momentum": 40.9,
+      "pred_growth": 2.0,
+      "accel": 10.77,
+      "mape": 26.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.05,
+        "phi": 0.85
+      },
+      "vol_norm": 68.4,
+      "confidence": 0.74,
+      "emergence": 10.4
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "series": [
+        218,
+        196,
+        252,
+        202,
+        281,
+        185,
+        174,
+        262,
+        201,
+        242,
+        276,
+        270
+      ],
+      "forecast": [
+        268.4,
+        275.1,
+        280.7
+      ],
+      "volume": 2759,
+      "avg_recent": 262.7,
+      "momentum": 23.7,
+      "pred_growth": 4.6,
+      "accel": 14.94,
+      "mape": 21.6,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 84.2,
+      "confidence": 0.78,
+      "emergence": 8.3
+    },
+    {
+      "term": "sample efficiency",
+      "series": [
+        123,
+        66,
+        79,
+        126,
+        137,
+        117,
+        86,
+        106,
+        161,
+        142,
+        118,
+        142
+      ],
+      "forecast": [
+        140.3,
+        142.2,
+        143.8
+      ],
+      "volume": 1403,
+      "avg_recent": 134.0,
+      "momentum": 13.9,
+      "pred_growth": 6.0,
+      "accel": 1.91,
+      "mape": 26.3,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 52.6,
+      "confidence": 0.74,
+      "emergence": 5.4
+    }
+  ],
+  "items": [
+    {
+      "term": "vision-language-action vla models",
+      "series": [
+        41,
+        24,
+        36,
+        65,
+        86,
+        76,
+        74,
+        57,
+        116,
+        145,
+        89,
+        168
+      ],
+      "forecast": [
+        156.5,
+        165.7,
+        173.5
+      ],
+      "volume": 977,
+      "avg_recent": 134.0,
+      "momentum": 62.8,
+      "pred_growth": 23.3,
+      "accel": 5.86,
+      "mape": 27.3,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 26.3,
+      "confidence": 0.73,
+      "emergence": 22.5
+    },
+    {
+      "term": "hidden states",
+      "series": [
+        46,
+        43,
+        32,
+        52,
+        60,
+        44,
+        35,
+        72,
+        97,
+        82,
+        95,
+        221
+      ],
+      "forecast": [
+        203.2,
+        232.6,
+        262.0
+      ],
+      "volume": 879,
+      "avg_recent": 132.7,
+      "momentum": 95.1,
+      "pred_growth": 75.3,
+      "accel": 26.37,
+      "mape": 26.5,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 15.8,
+      "confidence": 0.73,
+      "emergence": 50.2
+    },
+    {
+      "term": "world model",
+      "series": [
+        88,
+        48,
+        41,
+        76,
+        105,
+        104,
+        126,
+        86,
+        140,
+        164,
+        133,
+        249
+      ],
+      "forecast": [
+        251.4,
+        271.5,
+        288.6
+      ],
+      "volume": 1360,
+      "avg_recent": 182.0,
+      "momentum": 55.1,
+      "pred_growth": 48.6,
+      "accel": 14.11,
+      "mape": 21.4,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 47.4,
+      "confidence": 0.79,
+      "emergence": 33.0
+    },
+    {
+      "term": "vision-language model",
+      "series": [
+        408,
+        299,
+        397,
+        443,
+        453,
+        433,
+        395,
+        419,
+        460,
+        638,
+        523,
+        621
+      ],
+      "forecast": [
+        631.3,
+        650.6,
+        667.0
+      ],
+      "volume": 5489,
+      "avg_recent": 594.0,
+      "momentum": 39.9,
+      "pred_growth": 9.4,
+      "accel": 28.2,
+      "mape": 21.2,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 94.7,
+      "confidence": 0.79,
+      "emergence": 14.9
+    },
+    {
+      "term": "latent space",
+      "series": [
+        201,
+        181,
+        159,
+        221,
+        225,
+        224,
+        209,
+        207,
+        253,
+        296,
+        212,
+        373
+      ],
+      "forecast": [
+        315.1,
+        328.2,
+        339.4
+      ],
+      "volume": 2761,
+      "avg_recent": 293.7,
+      "momentum": 31.7,
+      "pred_growth": 11.5,
+      "accel": 16.26,
+      "mape": 22.2,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 89.5,
+      "confidence": 0.78,
+      "emergence": 12.9
+    },
+    {
+      "term": "verifiable rewards rlvr",
+      "series": [
+        29,
+        27,
+        23,
+        57,
+        71,
+        38,
+        28,
+        58,
+        64,
+        51,
+        57,
+        130
+      ],
+      "forecast": [
+        99.2,
+        109.9,
+        120.6
+      ],
+      "volume": 633,
+      "avg_recent": 79.3,
+      "momentum": 58.7,
+      "pred_growth": 38.5,
+      "accel": 8.09,
+      "mape": 22.1,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 0.0,
+      "confidence": 0.78,
+      "emergence": 29.2
+    },
+    {
+      "term": "language modeling",
+      "series": [
+        3408,
+        2705,
+        3074,
+        3513,
+        3976,
+        2963,
+        2645,
+        3495,
+        3510,
+        3778,
+        3887,
+        4542
+      ],
+      "forecast": [
+        4629.2,
+        4799.5,
+        4944.1
+      ],
+      "volume": 41496,
+      "avg_recent": 4069.0,
+      "momentum": 26.5,
+      "pred_growth": 17.7,
+      "accel": 254.34,
+      "mape": 13.2,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 100.0,
+      "confidence": 0.87,
+      "emergence": 31.9
+    },
+    {
+      "term": "policy optimization",
+      "series": [
+        130,
+        110,
+        151,
+        199,
+        232,
+        152,
+        175,
+        198,
+        258,
+        267,
+        216,
+        346
+      ],
+      "forecast": [
+        323.2,
+        339.2,
+        352.8
+      ],
+      "volume": 2434,
+      "avg_recent": 276.3,
+      "momentum": 31.4,
+      "pred_growth": 22.5,
+      "accel": 11.26,
+      "mape": 16.0,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 78.9,
+      "confidence": 0.84,
+      "emergence": 18.1
+    },
+    {
+      "term": "sample efficiency",
+      "series": [
+        123,
+        66,
+        79,
+        126,
+        137,
+        117,
+        86,
+        106,
+        161,
+        142,
+        118,
+        142
+      ],
+      "forecast": [
+        140.3,
+        142.2,
+        143.8
+      ],
+      "volume": 1403,
+      "avg_recent": 134.0,
+      "momentum": 13.9,
+      "pred_growth": 6.0,
+      "accel": 1.91,
+      "mape": 26.3,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 52.6,
+      "confidence": 0.74,
+      "emergence": 5.4
+    },
+    {
+      "term": "llm agents",
+      "series": [
+        108,
+        111,
+        107,
+        145,
+        192,
+        117,
+        117,
+        169,
+        215,
+        254,
+        283,
+        435
+      ],
+      "forecast": [
+        468.7,
+        527.4,
+        586.1
+      ],
+      "volume": 2253,
+      "avg_recent": 324.0,
+      "momentum": 94.0,
+      "pred_growth": 62.8,
+      "accel": 47.0,
+      "mape": 39.4,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 73.7,
+      "confidence": 0.61,
+      "emergence": 38.4
+    },
+    {
+      "term": "latent representations",
+      "series": [
+        71,
+        71,
+        69,
+        90,
+        85,
+        85,
+        67,
+        80,
+        114,
+        137,
+        105,
+        161
+      ],
+      "forecast": [
+        149.5,
+        161.0,
+        172.6
+      ],
+      "volume": 1135,
+      "avg_recent": 134.3,
+      "momentum": 54.4,
+      "pred_growth": 19.9,
+      "accel": 12.43,
+      "mape": 28.1,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 42.1,
+      "confidence": 0.72,
+      "emergence": 19.6
+    },
+    {
+      "term": "supervised fine-tuning sft",
+      "series": [
+        67,
+        48,
+        69,
+        92,
+        116,
+        71,
+        57,
+        88,
+        87,
+        90,
+        97,
+        116
+      ],
+      "forecast": [
+        116.4,
+        119.9,
+        122.8
+      ],
+      "volume": 998,
+      "avg_recent": 101.0,
+      "momentum": 30.6,
+      "pred_growth": 18.5,
+      "accel": 2.23,
+      "mape": 16.1,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.2,
+        "phi": 0.85
+      },
+      "vol_norm": 31.6,
+      "confidence": 0.84,
+      "emergence": 15.6
+    },
+    {
+      "term": "flow matching",
+      "series": [
+        72,
+        55,
+        69,
+        101,
+        129,
+        101,
+        100,
+        101,
+        163,
+        172,
+        125,
+        244
+      ],
+      "forecast": [
+        222.1,
+        236.4,
+        248.5
+      ],
+      "volume": 1432,
+      "avg_recent": 180.3,
+      "momentum": 48.6,
+      "pred_growth": 30.7,
+      "accel": 11.49,
+      "mape": 23.1,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 57.9,
+      "confidence": 0.77,
+      "emergence": 23.7
+    },
+    {
+      "term": "catastrophic forgetting",
+      "series": [
+        60,
+        57,
+        70,
+        75,
+        81,
+        83,
+        69,
+        91,
+        90,
+        96,
+        79,
+        124
+      ],
+      "forecast": [
+        110.9,
+        116.7,
+        122.6
+      ],
+      "volume": 975,
+      "avg_recent": 99.7,
+      "momentum": 19.6,
+      "pred_growth": 17.1,
+      "accel": 1.51,
+      "mape": 15.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 21.1,
+      "confidence": 0.85,
+      "emergence": 12.3
+    },
+    {
+      "term": "retrieval-augmented generation",
+      "series": [
+        218,
+        196,
+        252,
+        202,
+        281,
+        185,
+        174,
+        262,
+        201,
+        242,
+        276,
+        270
+      ],
+      "forecast": [
+        268.4,
+        275.1,
+        280.7
+      ],
+      "volume": 2759,
+      "avg_recent": 262.7,
+      "momentum": 23.7,
+      "pred_growth": 4.6,
+      "accel": 14.94,
+      "mape": 21.6,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 84.2,
+      "confidence": 0.78,
+      "emergence": 8.3
+    },
+    {
+      "term": "uncertainty quantification",
+      "series": [
+        104,
+        119,
+        107,
+        133,
+        137,
+        112,
+        125,
+        108,
+        126,
+        172,
+        135,
+        199
+      ],
+      "forecast": [
+        169.8,
+        172.1,
+        174.1
+      ],
+      "volume": 1577,
+      "avg_recent": 168.7,
+      "momentum": 40.9,
+      "pred_growth": 2.0,
+      "accel": 10.77,
+      "mape": 26.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.05,
+        "phi": 0.85
+      },
+      "vol_norm": 68.4,
+      "confidence": 0.74,
+      "emergence": 10.4
+    },
+    {
+      "term": "visual grounding",
+      "series": [
+        36,
+        28,
+        34,
+        41,
+        38,
+        47,
+        52,
+        45,
+        46,
+        85,
+        90,
+        99
+      ],
+      "forecast": [
+        105.6,
+        111.6,
+        116.7
+      ],
+      "volume": 641,
+      "avg_recent": 91.3,
+      "momentum": 91.6,
+      "pred_growth": 21.9,
+      "accel": 9.06,
+      "mape": 48.9,
+      "params": {
+        "alpha": 0.8,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 5.3,
+      "confidence": 0.51,
+      "emergence": 20.0
+    },
+    {
+      "term": "video generation",
+      "series": [
+        118,
+        69,
+        93,
+        81,
+        121,
+        114,
+        172,
+        96,
+        120,
+        180,
+        136,
+        202
+      ],
+      "forecast": [
+        192.3,
+        201.3,
+        209.0
+      ],
+      "volume": 1502,
+      "avg_recent": 172.7,
+      "momentum": 33.5,
+      "pred_growth": 16.3,
+      "accel": 5.89,
+      "mape": 31.6,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 63.2,
+      "confidence": 0.68,
+      "emergence": 12.8
+    },
+    {
+      "term": "continual learning",
+      "series": [
+        72,
+        69,
+        85,
+        79,
+        67,
+        91,
+        74,
+        82,
+        80,
+        91,
+        83,
+        129
+      ],
+      "forecast": [
+        110.5,
+        117.1,
+        123.6
+      ],
+      "volume": 1002,
+      "avg_recent": 101.0,
+      "momentum": 28.4,
+      "pred_growth": 15.9,
+      "accel": 5.89,
+      "mape": 16.4,
+      "params": {
+        "alpha": 0.4,
+        "beta": 0.3,
+        "phi": 1.0
+      },
+      "vol_norm": 36.8,
+      "confidence": 0.84,
+      "emergence": 14.2
+    },
+    {
+      "term": "parameter-efficient fine-tuning",
+      "series": [
+        54,
+        43,
+        52,
+        56,
+        71,
+        46,
+        55,
+        49,
+        63,
+        59,
+        63,
+        87
+      ],
+      "forecast": [
+        82.2,
+        86.3,
+        89.7
+      ],
+      "volume": 698,
+      "avg_recent": 69.7,
+      "momentum": 25.1,
+      "pred_growth": 23.5,
+      "accel": 4.29,
+      "mape": 11.8,
+      "params": {
+        "alpha": 0.6,
+        "beta": 0.3,
+        "phi": 0.85
+      },
+      "vol_norm": 10.5,
+      "confidence": 0.88,
+      "emergence": 17.3
+    }
+  ]
+}

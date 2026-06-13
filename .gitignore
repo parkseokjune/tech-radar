@@ -1,0 +1,4 @@
+# 대용량 raw 코퍼스(arXiv 초록) — 재생성 가능, 저작권 텍스트
+corpus.json
+__pycache__/
+*.pyc
